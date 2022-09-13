@@ -12,3 +12,4 @@ norway_covid.csv - wygenerowany plik csv z danymi dla Norwegii
 Python
 data_analysis.py - analiza i wizualizacja danych
 model.py - model prognostyczny
+
